@@ -1,1 +1,1 @@
-##### Practice making a rest api with node and express, testing it with postman.
+##### •Practice making a rest api with node and express, testing it with postman.
